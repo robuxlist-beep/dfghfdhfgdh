@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
   },
   {
     name: "1v1.LOL",
-    link: "https://1v1-lol-online.github.io/",
+    link: "https://cpsgames.org/game/1v1-lol",
     image: "/images/icons/1v1-lol.webp",
     categories: ['all,', '2P'],
     error: false
